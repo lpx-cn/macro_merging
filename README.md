@@ -1,5 +1,5 @@
 # macro_merging
-macro for my tianxi.
+Macro for my tianxi.
 
-# The 5.0 can check the sum of all branches.
-# The 6.0 can automaticlly correct the error of the head office.
+The 5.0 can check the sum of all branches.
+The 6.0 can automaticlly correct the error of the head office.
